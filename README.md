@@ -1,6 +1,6 @@
 # PDF-Chatbot
 
-**************************************************************************
+<img align="center" alt="main" src="https://github.com/Vijay-konakeri/PDF-Chatbot/blob/b51b6d441271ab7c982350320a2f6ecf4f724edc/Image.png">
 
 ## Introduction
 ------------
