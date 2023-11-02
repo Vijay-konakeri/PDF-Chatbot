@@ -1,5 +1,4 @@
 # PDF-Chatbot
-# MultiPDF Chat App
 
 **************************************************************************
 
@@ -40,4 +39,4 @@ To use the PDF Chat App, follow these steps:
 
 5. Ask questions in natural language about the loaded PDFs using the chat interface.
 
-******************************************************************//////////////////////**********************************************************************
+*******/////*******
